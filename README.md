@@ -1,1 +1,0 @@
-# pegaxy-rent-bot
