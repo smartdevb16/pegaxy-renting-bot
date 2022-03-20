@@ -1,1 +1,1 @@
-# pegaxy-renting-bot
+# pegaxy-rent-bot
